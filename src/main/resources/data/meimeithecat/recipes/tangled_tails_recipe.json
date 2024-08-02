@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "meimeithecat:tail"
+    }
+  },
+  "result": {
+    "item": "meimeithecat:tangled_tails"
+  }
+}

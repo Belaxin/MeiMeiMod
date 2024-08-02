@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+    "item": "meimeithecat:kibble"
+    }
+  },
+  "result": {
+    "item": "meimeithecat:kibble_pile"
+  }
+}

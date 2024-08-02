@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "meimeithecat:kibble_pile"
+    }
+  ],
+  "result": {
+    "item": "meimeithecat:kibble",
+    "count": 9
+  }
+}

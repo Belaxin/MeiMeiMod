@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 10,
+  "experience": 0.1,
+  "group": "kibble",
+  "ingredient": {
+    "item": "meimeithecat:kibble_powder"
+  },
+  "result": "meimeithecat:kibble"
+}
