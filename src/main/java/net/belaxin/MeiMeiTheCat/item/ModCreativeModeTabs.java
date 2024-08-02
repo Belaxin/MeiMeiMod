@@ -28,6 +28,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.TANGLED_TAILS.get());
                         pOutput.accept(ModBlocks.KIBBLE_PILE.get());
                         pOutput.accept(ModBlocks.KIBBLE_ORE.get());
+                        pOutput.accept(ModBlocks.DEEPSLATE_KIBBLE_ORE.get());
 
 
                     })
