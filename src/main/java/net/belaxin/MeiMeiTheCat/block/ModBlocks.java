@@ -20,10 +20,13 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, MeiMeiTheCat.MOD_ID);
 
     public static final RegistryObject<Block> TANGLED_TAILS = registerBlock("tangled_tails",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_WART_BLOCK).speedFactor(1.5f)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHER_WART_BLOCK).speedFactor(1.4f)));
 
     public static final RegistryObject<Block> KIBBLE_PILE = registerBlock("kibble_pile",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIRT).sound(SoundType.CANDLE)));
+
+    public static final RegistryObject<Block> KIBBLE_ORE = registerBlock("kibble_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.STONE)));
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {

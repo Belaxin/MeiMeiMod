@@ -22,10 +22,12 @@ public class ModCreativeModeTabs {
                         //items
                         pOutput.accept(ModItems.TAIL.get());
                         pOutput.accept(ModItems.KIBBLE.get());
+                        pOutput.accept(ModItems.KIBBLE_POWDER.get());
 
                         //blocks
                         pOutput.accept(ModBlocks.TANGLED_TAILS.get());
                         pOutput.accept(ModBlocks.KIBBLE_PILE.get());
+                        pOutput.accept(ModBlocks.KIBBLE_ORE.get());
 
 
                     })

@@ -1,9 +1,11 @@
 {
   "item.meimeithecat.tail": "Mei's tail",
   "item.meimeithecat.kibble": "Kibble",
+  "item.meimeithecat.kibble_powder": "Kibble powder",
 
   "block.meimeithecat.tangled_tails": "Tangled tails",
   "block.meimeithecat.kibble_pile": "Pile of kibble",
+  "block.meimeithecat.kibble_ore": "Kibble ore",
 
   "creativetab.meimei_tab": "MeiMei Mod "
 }
